@@ -1,3 +1,11 @@
+/*
+Palindrome adalah suatu kata, frasa, angka, maupun susunan lainnya apabila dibaca dari
+depan atau belakang bunyinya tetap sama (spasi antara huruf-huruf biasanya diperbolehkan) contoh “ada”, “level”.
+Buatlah sebuah function untuk mengindikasi sebuah kata dari payload yang dikirim. Jika
+kata tersebut Palindrome maka akan mencetak “Kata `level` adalah palindrome” selain itu
+“Kata ‘[payload]’ bukan palindrome”
+*/
+
 public class Main {
 
     public static void main (String[] args) {
