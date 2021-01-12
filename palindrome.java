@@ -22,5 +22,5 @@ public class Main {
             System.out.println("This " + word + " is a palindrome");
         } else {
             System.out.println("This " + word + " is not a palindrome");
-        }
+    }
 }
